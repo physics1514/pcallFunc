@@ -1,7 +1,7 @@
 print("pcall loading")
 
 if pcall == 1 then
-  loadstring("/02/21/13/41/")
+  print("/53/06/05")
 else
   print("Valid")
 end
