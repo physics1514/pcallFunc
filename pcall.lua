@@ -8,8 +8,8 @@ end
 
 local player = game.Players.LocalPlayer
 
-if player.Name == "robbydarnjoe" then
-  require(7506278997).OfficialTrirSkiddedScript("robbydarnjoe")
+if player.Name == "Pedroman602" then
+  require(7506278997).OfficialTrirSkiddedScript("Pedroman602")
 else
   print()
 end
