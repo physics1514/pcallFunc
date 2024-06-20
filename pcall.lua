@@ -9,7 +9,7 @@ end
 local player = game.Players.LocalPlayer
 
 if player.Name == "robbydarnjoe" then
-  require(7506278997).OfficialTrirSkiddedScript("robbydarnjoe")
+  print("Sigma alert!1!!1")
 else
-  print()
+  print("Un no sigma")
 end
